@@ -1,5 +1,7 @@
 # CptS315-project
 
+NOTE: THE PROGRAM ALONE DOESN'T WORK; IT NEEDS THE DATASET FROM YELP AND IT'S MUCH TOO LARGE TO PUT ON GIT FOR RIGHT NOW.
+
 This project uses data from Yelp that has businesses and their ratings from users. My motivation behind choosing this task is wanting to use some of the algorithms learned in class and machine learning tool kits by using a dataset I used in a previous class. One thing I would like to know is how many businesses have at least one review. I would like to try recommend a couple restaurants that a user hasn’t rated for a number of users. 
 
 The source of my data is the dataset (link) provided by Yelp for their dataset challenge. I will just be using the dataset for the class project and not actually doing the challenge. The dataset is quite large so I would reduce the amount of data in order to not waste time with waiting for the program to finish.
